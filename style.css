@@ -24,14 +24,14 @@ header{
 }
 
 .cabecalho-imagem{
-    width: 0,00005%;
+    width: 10%;
     display: flex;
     justify-content: flex-start;
     align-items: center;
 }
 
 .titulo_site{
-    padding: 100px;
+    padding: 50px;
     text-align: center;
     width: 50%;
     font: 30px;
@@ -41,7 +41,7 @@ header{
     display: flex;
     justify-content: flex-end;
     width: 25%;
-    padding-right: 100px;
+    padding-right: 30px;
 }
 
 .banner1{
@@ -59,7 +59,7 @@ header{
 }
 
 .estudante-imagem{
-    width: 1000px;
+    width: 120px;
 }
 
 .estudante-icone{
