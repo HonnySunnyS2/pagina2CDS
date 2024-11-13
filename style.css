@@ -77,7 +77,7 @@ header{
     padding: 24px 0;
 }
 
-.OSestudantes{
+.TodosEstudantes{
     display: flex;
     justify-content: space-around;
 }
